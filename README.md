@@ -42,7 +42,7 @@ The content contains several independent modules that cover different aspects of
 #### Deploy Java EE application to Oracle Java Cloud Service  ####
 
 
-+ [Deploy Java EE sample application to Oracle Java Cloud Service using Admin console](jcs-deploy/README.md)  (Task 10 - Sachin)
++ [Deploy Java EE sample application to Oracle Java Cloud Service using Admin console](jcs-deploy/README.md)
 
 #### Manage Oracle Java Cloud Service using UI and PaaS Service Manager  ####
 + [Manage Oracle Java Cloud Service instances using REST API](jcs-restapi/README.md)
@@ -77,9 +77,6 @@ The content contains several independent modules that cover different aspects of
 + [Using PaaS Service Manager (PSM) Command Line Interface (CLI)](jcs-scale-psm/README.md)
 
 ----
-
-#### Provision the environment (Not required on shared environment)####
-+ [Prepare Database Cloud Service Instance to store sample application's data](dbcs-prepare/README.md)
 
 ---
 
