@@ -66,7 +66,7 @@ You need to modify 4 files in the Techco app.
     techco-app\src\main\java\com\oracle\cloud\demo\oe\test to avoid EJB JNDI name conflicts
 
 #### Prerequisites specific to students working on your own/trial environments ####
-   If you have obtained an environment from us, please DO NOT do this section since both the database and the java cloud service instances have already been created for you. This section is only for those students using their own/trial environments.
+   If you have obtained an environment from us, please ##### DO NOT ##### do this section since both the database and the java cloud service instances have already been created for you. This section is only for those students using their own/trial environments.
 
 - [Prepared Database Cloud Service](../dbcs-prepare/README.md) instance which holds the TechCo Demo application's data.
 - Running [Java Cloud Service instance](../jcs-create/README.md) configured to access to the prepared Database Cloud Service
