@@ -69,7 +69,17 @@ The content contains several independent modules that cover different aspects of
 
 ----
 
+### Mobile Cloud Service ###
 
++ [Online Mobile Cloud Service Lab](http://docs.oracle.com/cd/E65774_01/tutorials/tut_mcs_one_day_v4_5/tut_mcs_one_day_1.html)
+
+----
+### Application Builder Cloud Service ###
++ [Online ABCS Lab](http://www.oracle.com/webfolder/technetwork/tutorials/obe/cloud/appbuilder/GettingStarted/GettingStarted.html)
+
+PLEASE USE UNIQUE APPLICATION NAME (EX: ** HR APPLICATION <YOUR STUDENT NO> **)
+
+----
 ### Infrastructure As Code
 
 
