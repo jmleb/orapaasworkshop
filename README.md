@@ -19,8 +19,8 @@ NOTE: Accounts are valid during the week of the workshop only.
 
 **Lab Prerequisites**
 
-+ [Setup JDK 8/Git 2.11.03 or higher / MAven 3.3.9 or higher] (http://www.oracle.com/webfolder/technetwork/tutorials/OracleCode/Windows-HOL-setup.pdf)
-+ [Setup Oracle Enterprise pack for Eclipse - Neon] (http://www.oracle.com/technetwork/developer-tools/eclipse/downloads/index.html)
++ [Setup JDK 8/Git 2.11.03 or higher / MAven 3.3.9 or higher](http://www.oracle.com/webfolder/technetwork/tutorials/OracleCode/Windows-HOL-setup.pdf)
++ [Setup Oracle Enterprise pack for Eclipse - Neon](http://www.oracle.com/technetwork/developer-tools/eclipse/downloads/index.html)
 
 ### Important ###
 
